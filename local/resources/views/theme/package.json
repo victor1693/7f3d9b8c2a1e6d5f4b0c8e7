@@ -1,0 +1,16 @@
+{
+  "name": "dashkit-tailwind",
+  "version": "1.0.2",
+  "description": "dd",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx tailwindcss -i assets/css/input.css -o assets/css/output.css -w",
+    "compile-scss": "sass assets/css/input.scss assets/css/output.css -w"
+  },
+  "keywords": [],
+  "author": "masum",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
