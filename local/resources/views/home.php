@@ -14,6 +14,17 @@
             .btn{
                 font-size: 16px;
             }
+
+            .price {
+                background: linear-gradient(to bottom, #1754D8, #578CFF);
+                color: white;
+                font-weight: bold;
+                border-bottom: 1.2px solid #1854d8;    
+                border-top: 1.2px solid #366feb;
+                border-left: 1.2px solid #2862e2;
+                border-right: 1.2px solid #2862e2;
+                box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+            }
         </style>
     </head>
     <body class="theme-dark" style="padding: 15px;padding-left: 79px;">
@@ -144,12 +155,17 @@
                                             </div>
                                         </div>
                                         <div class="col-4">
-                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
-                                                $ / Vistas
-                                            </p>
-                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
-                                                4.00 US$ / 1 mil
-                                            </p>
+                                            <div style="width: 110px;">
+                                                <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                    $ / Vistas
+                                                </p>
+                                                <p class="card-title text-white m-0 badge badge-sm price" style="font-size: 12px;font-weight: 600; padding: 0 !important">
+                                                    4.00 US$ /
+                                                    <span style="opacity: 0.6">
+                                                        1 mil
+                                                    </span>
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -164,6 +180,8 @@
                                             </span>
                                         </div>
                                         <div class="col">
+                                            <div style="width: 110px;">
+                                            </div>
                                             <p class="card-title mb-0" style="padding-top: 7px;">
                                                 Graziosi Clips
                                             </p>
@@ -212,12 +230,17 @@
                                             </div>
                                         </div>
                                         <div class="col-4">
-                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
-                                                $ / Vistas
-                                            </p>
-                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
-                                                2.00 US$ / 1 mil
-                                            </p>
+                                            <div style="width: 110px;">
+                                                <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                    $ / Vistas
+                                                </p>
+                                                <p class="card-title text-white m-0 badge badge-sm price" style="font-size: 12px;font-weight: 600; padding: 0 !important">
+                                                    1.00 US$ /
+                                                    <span style="opacity: 0.6">
+                                                        1 mil
+                                                    </span>
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -280,12 +303,17 @@
                                             </div>
                                         </div>
                                         <div class="col-4">
-                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
-                                                $ / Vistas
-                                            </p>
-                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
-                                                3.50 US$ / 1 mil
-                                            </p>
+                                            <div style="width: 110px;">
+                                                <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                    $ / Vistas
+                                                </p>
+                                                <p class="card-title text-white m-0 badge badge-sm price" style="font-size: 12px;font-weight: 600; padding: 0 !important">
+                                                    3.00 US$ /
+                                                    <span style="opacity: 0.6">
+                                                        1 mil
+                                                    </span>
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -348,12 +376,17 @@
                                             </div>
                                         </div>
                                         <div class="col-4">
-                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
-                                                $ / Vistas
-                                            </p>
-                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
-                                                1.00 US$ / 1 mil
-                                            </p>
+                                            <div style="width: 110px;">
+                                                <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                    $ / Vistas
+                                                </p>
+                                                <p class="card-title text-white m-0 badge badge-sm price" style="font-size: 12px;font-weight: 600; padding: 0 !important">
+                                                    5.00 US$ /
+                                                    <span style="opacity: 0.6">
+                                                        1 mil
+                                                    </span>
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -416,12 +449,17 @@
                                             </div>
                                         </div>
                                         <div class="col-4">
-                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
-                                                $ / Vistas
-                                            </p>
-                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
-                                                1.00 US$ / 1 mil
-                                            </p>
+                                            <div style="width: 110px;">
+                                                <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                    $ / Vistas
+                                                </p>
+                                                <p class="card-title text-white m-0 badge badge-sm price" style="font-size: 12px;font-weight: 600; padding: 0 !important">
+                                                    2.20 US$ /
+                                                    <span style="opacity: 0.6">
+                                                        1 mil
+                                                    </span>
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -484,12 +522,17 @@
                                             </div>
                                         </div>
                                         <div class="col-4">
-                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
-                                                $ / Vistas
-                                            </p>
-                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
-                                                50.00 US$ / 1 mil
-                                            </p>
+                                            <div style="width: 110px;">
+                                                <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                    $ / Vistas
+                                                </p>
+                                                <p class="card-title text-white m-0 badge badge-sm price" style="font-size: 12px;font-weight: 600; padding: 0 !important">
+                                                    50.00 US$ /
+                                                    <span style="opacity: 0.6">
+                                                        1 mil
+                                                    </span>
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -552,12 +595,14 @@
                                             </div>
                                         </div>
                                         <div class="col-4">
-                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
-                                                $ / Vistas
-                                            </p>
-                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
-                                                3.00 US$ / 1 mil
-                                            </p>
+                                            <div style="width: 110px;">
+                                                <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                    $ / Vistas
+                                                </p>
+                                                <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
+                                                    78.00 US$ / 1 mil
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -620,12 +665,17 @@
                                             </div>
                                         </div>
                                         <div class="col-4">
-                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
-                                                $ / Vistas
-                                            </p>
-                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
-                                                1.75 US$ / 1 mil
-                                            </p>
+                                            <div style="width: 110px;">
+                                                <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                    $ / Vistas
+                                                </p>
+                                                <p class="card-title text-white m-0 badge badge-sm price" style="font-size: 12px;font-weight: 600; padding: 0 !important">
+                                                    11.00 US$ /
+                                                    <span style="opacity: 0.6">
+                                                        1 mil
+                                                    </span>
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
@@ -688,12 +738,17 @@
                                             </div>
                                         </div>
                                         <div class="col-4">
-                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
-                                                $ / Vistas
-                                            </p>
-                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
-                                                3.00 US$ / 1 mil
-                                            </p>
+                                            <div style="width: 110px;">
+                                                <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                    $ / Vistas
+                                                </p>
+                                                <p class="card-title text-white m-0 badge badge-sm price" style="font-size: 12px;font-weight: 600; padding: 0 !important">
+                                                    7.00 US$ /
+                                                    <span style="opacity: 0.6">
+                                                        1 mil
+                                                    </span>
+                                                </p>
+                                            </div>
                                         </div>
                                     </div>
                                 </div>
