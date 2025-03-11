@@ -6,7 +6,7 @@
                 </path>
             </svg>
         </div>
-        <a class="btn btn-bitbucket w-100 btn-icon bg-dark mb-2" href="#" style="width: 50px">
+        <a class="btn btn-bitbucket w-100 btn-icon bg-dark mb-2" href="<?= Request::root();?>/home" style="width: 50px">
             <svg class="icon icon-tabler icons-tabler-outline icon-tabler-home" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 0h24v24H0z" fill="none" stroke="none">
                 </path>
@@ -40,7 +40,7 @@
                 </path>
             </svg>
         </a>
-        <a class="btn btn-bitbucket w-100 btn-icon bg-dark mb-2" href="#" style="width: 50px">
+        <a class="btn btn-bitbucket w-100 btn-icon bg-dark mb-2" href="<?= Request::root();?>/profile" style="width: 50px">
             <svg class="icon icon-tabler icons-tabler-outline icon-tabler-user" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 0h24v24H0z" fill="none" stroke="none">
                 </path>
