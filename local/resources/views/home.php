@@ -16,9 +16,7 @@
             }
         </style>
     </head>
-    <body style="padding: 15px;padding-left: 79px;">
-        <script src="<?= Request::root();?>/local/resources/views/dist/js/demo-theme.min.js">
-        </script>
+    <body class="theme-dark" style="padding: 15px;padding-left: 79px;">
         <?php # include 'includes/aside.php'; ?>
         <?php  include 'includes/aside-condensed.php'; ?>
         <div class="page">
