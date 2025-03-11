@@ -24,5 +24,17 @@ class ProfileController extends Controller
        $vista = View::make('profile-seguridad');
        return $vista;
     }
+
+    public function metodosDePago()
+    {
+       $vista = View::make('profile-formas-de-pago');
+       return $vista;
+    }
+
+    public function saldo()
+    {
+       $vista = View::make('profile-saldo');
+       return $vista;
+    }
 }
  

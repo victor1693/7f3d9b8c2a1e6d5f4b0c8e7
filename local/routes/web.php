@@ -12,9 +12,11 @@ use App\Http\Controllers\HomeController;
 use App\Http\Controllers\ProfileController; 
 
 Route::get('home', [HomeController::class, 'create']);
-Route::get('profile', [ProfileController::class, 'create']);
+Route::get('profile', [ProfileController::class, 'general']);
 Route::get('profile-cuentas', [ProfileController::class, 'cuentas']);
 Route::get('profile-seguridad', [ProfileController::class, 'seguridad']);
+Route::get('profile-formas-de-pago', [ProfileController::class, 'metodosDePago']);
+Route::get('profile-saldo', [ProfileController::class, 'saldo']);
 
 /*
 # RUTAS PUBLICAS

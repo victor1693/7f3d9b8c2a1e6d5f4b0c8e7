@@ -14,7 +14,7 @@
         </div>
     </div>
     <div class="list-group list-group-flush">
-        <a class="list-group-item list-group-item-action" href="#" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
+        <a class="list-group-item list-group-item-action" href="<?= Request::root()?>/profile" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
             <svg class="icon icon-tabler icons-tabler-outline icon-tabler-settings" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="height: 34px;position: absolute;margin-top: -6px !important;margin-left: -30px !important;" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 0h24v24H0z" fill="none" stroke="none">
                 </path>
@@ -25,7 +25,7 @@
             </svg>
             General
         </a>
-        <a class="list-group-item list-group-item-action" href="#" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
+        <a class="list-group-item list-group-item-action" href="<?= Request::root()?>/profile-cuentas" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
             <svg class="icon icon-tabler icons-tabler-outline icon-tabler-link" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="height: 34px;position: absolute;margin-top: -6px !important;margin-left: -30px !important;" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 0h24v24H0z" fill="none" stroke="none">
                 </path>
@@ -38,7 +38,7 @@
             </svg>
             Cuentras conectadas
         </a>
-        <a class="list-group-item list-group-item-action" href="#" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
+        <a class="list-group-item list-group-item-action" href="<?= Request::root()?>/profile-seguridad" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
             <svg class="icon icon-tabler icons-tabler-outline icon-tabler-shield-lock" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="height: 34px;position: absolute;margin-top: -6px !important;margin-left: -30px !important;" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 0h24v24H0z" fill="none" stroke="none">
                 </path>
@@ -51,7 +51,7 @@
             </svg>
             Seguridad
         </a>
-        <a class="list-group-item list-group-item-action" href="#" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
+        <a class="list-group-item list-group-item-action" href="<?= Request::root()?>/profile-formas-de-pago" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
             <svg class="icon icon-tabler icons-tabler-outline icon-tabler-credit-card" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="height: 34px;position: absolute;margin-top: -6px !important;margin-left: -30px !important;" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 0h24v24H0z" fill="none" stroke="none">
                 </path>
@@ -66,7 +66,7 @@
             </svg>
             Formas de pago
         </a>
-        <a class="list-group-item list-group-item-action" href="#" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
+        <a class="list-group-item list-group-item-action" href="<?= Request::root()?>/profile-saldo" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
             <svg class="icon icon-tabler icons-tabler-outline icon-tabler-currency-dollar" fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" style="height: 34px;position: absolute;margin-top: -6px !important;margin-left: -30px !important;" viewbox="0 0 24 24" width="24" xmlns="http://www.w3.org/2000/svg">
                 <path d="M0 0h24v24H0z" fill="none" stroke="none">
                 </path>
