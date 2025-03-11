@@ -89,7 +89,75 @@
                         </div>
                     </div>
                     <div class="row">
-                        <div class="col-4">
+                        <div class="col-4 mb-2">
+                            <div class="card">
+                                <div class="card-body" style="padding: 15px;">
+                                    <div class="row " style="margin: 0px;">
+                                        <div class="col-auto m-0 p-0">
+                                            <span class="avatar" style="background-image: url(https://img-v2-prod.whop.com/EhTD3HTOhvFW-9uGE5QhWuqVLyunKFvKdz-Tdt2cvnM/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI1LTAxLTExL3VzZXJfNjgzOTk4OV83YThkMTQ5NS01YzIxLTRhMzYtYmIxMC1mMzNlODIxNmZiMmEucG5n)">
+                                            </span>
+                                        </div>
+                                        <div class="col">
+                                            <p class="card-title mb-0" style="padding-top: 7px;">
+                                                Whop UGC Creators
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="card-title mt-2 mb-2">
+                                        Whop UGC (Faceless)
+                                    </p>
+                                    <div class="row">
+                                        <div class="col-11">
+                                            <p class="card-title mb-1" style="font-size: 14px;">
+                                                1955,81 US$ de 6000 US$ pagado
+                                            </p>
+                                        </div>
+                                        <div class="col-1">
+                                            <p class="card-title mb-1" style="font-size: 14px;text-align: right;">
+                                                38%
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12 m-0">
+                                            <div class="progress mb-2 bg-dark" style="border: 1px solid #2a2a2a;height: 12px;">
+                                                <div aria-label="38% Complete" aria-valuemax="100" aria-valuemin="0" aria-valuenow="38" class="progress-bar bg-orange" role="progressbar" style="width: 38%">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Tipo
+                                            </p>
+                                            <p class="card-title text-white m-0" style="font-size: 14px;">
+                                                UGC
+                                            </p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Plataformas
+                                            </p>
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <img src="https://assets.whop.com/core/2afe54ae8a904906b22dfce0/_next/static/media/tiktok-logo.b77808fb.svg"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                $ / Vistas
+                                            </p>
+                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
+                                                4.00 US$ / 1 mil
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 mb-2">
                             <div class="card">
                                 <div class="card-body" style="padding: 15px;">
                                     <div class="row " style="margin: 0px;">
@@ -99,7 +167,7 @@
                                         </div>
                                         <div class="col">
                                             <p class="card-title mb-0" style="padding-top: 7px;">
-                                                Nombre
+                                                Graziosi Clips
                                             </p>
                                         </div>
                                     </div>
@@ -114,14 +182,286 @@
                                         </div>
                                         <div class="col-6">
                                             <p class="card-title mb-1" style="font-size: 14px;text-align: right;">
-                                                71%
+                                                33%
                                             </p>
                                         </div>
                                     </div>
                                     <div class="row">
                                         <div class="col-12 m-0">
                                             <div class="progress mb-2 bg-dark" style="border: 1px solid #2a2a2a;height: 12px;">
-                                                <div aria-label="38% Complete" aria-valuemax="100" aria-valuemin="0" aria-valuenow="38" class="progress-bar bg-orange" role="progressbar" style="width: 38%">
+                                                <div aria-label="33% Complete" aria-valuemax="100" aria-valuemin="0" aria-valuenow="33" class="progress-bar bg-orange" role="progressbar" style="width: 33%">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Tipo
+                                            </p>
+                                            <p class="card-title text-white m-0" style="font-size: 14px;">
+                                                UGC
+                                            </p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Plataformas
+                                            </p>
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <img src="https://assets.whop.com/core/2afe54ae8a904906b22dfce0/_next/static/media/tiktok-logo.b77808fb.svg"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                $ / Vistas
+                                            </p>
+                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
+                                                2.00 US$ / 1 mil
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 mb-2">
+                            <div class="card">
+                                <div class="card-body" style="padding: 15px;">
+                                    <div class="row " style="margin: 0px;">
+                                        <div class="col-auto m-0 p-0">
+                                            <span class="avatar" style="background-image: url(https://img-v2-prod.whop.com/BC5w06UzE8WxaoXV8YO8ha55b0ha9vfgFZ8CuB3m_AA/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI1LTAzLTAxL3VzZXJfNjgzOTk4OV9hNjJhZDNmNS1hMGI5LTQyZTMtYmIwNy05YWI0YzNlMWQ5MzYuanBlZw)">
+                                            </span>
+                                        </div>
+                                        <div class="col">
+                                            <p class="card-title mb-0" style="padding-top: 7px;">
+                                                Lil Shxwn "Leave" Clipping
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="card-title mt-2 mb-2">
+                                        "Leave" Feat. Yungeen Ace
+                                    </p>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;">
+                                                999,72 US$ de 1000 US$ pagado
+                                            </p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;text-align: right;">
+                                                99%
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12 m-0">
+                                            <div class="progress mb-2 bg-dark" style="border: 1px solid #2a2a2a;height: 12px;">
+                                                <div aria-label="99% Complete" aria-valuemax="100" aria-valuemin="0" aria-valuenow="99" class="progress-bar bg-orange" role="progressbar" style="width: 99%">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Tipo
+                                            </p>
+                                            <p class="card-title text-white m-0" style="font-size: 14px;">
+                                                Recorte
+                                            </p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Plataformas
+                                            </p>
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <img src="https://assets.whop.com/core/2afe54ae8a904906b22dfce0/_next/static/media/tiktok-logo.b77808fb.svg"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                $ / Vistas
+                                            </p>
+                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
+                                                3.50 US$ / 1 mil
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 mb-2">
+                            <div class="card">
+                                <div class="card-body" style="padding: 15px;">
+                                    <div class="row " style="margin: 0px;">
+                                        <div class="col-auto m-0 p-0">
+                                            <span class="avatar" style="background-image: url(https://img-v2-prod.whop.com/_bbKBTiOD9z-wYV9n_wNRPWhu1r4sbmad35haYuzXEc/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI1LTAxLTI4L3VzZXJfNzM2MDk5Nl83N2IxOTRiNC0wZjdkLTQ3ZjAtOTFmZi01MTAyNGUxZTkzNGYucG5n)">
+                                            </span>
+                                        </div>
+                                        <div class="col">
+                                            <p class="card-title mb-0" style="padding-top: 7px;">
+                                                Jacob Levinrad Clips
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="card-title mt-2 mb-2">
+                                        Jacob Levinrad Clips ($1 per 1k views)
+                                    </p>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;">
+                                                841,63 US$ de 7000 US$ pagado
+                                            </p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;text-align: right;">
+                                                12%
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12 m-0">
+                                            <div class="progress mb-2 bg-dark" style="border: 1px solid #2a2a2a;height: 12px;">
+                                                <div aria-label="12% Complete" aria-valuemax="100" aria-valuemin="0" aria-valuenow="12" class="progress-bar bg-orange" role="progressbar" style="width: 12%">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Tipo
+                                            </p>
+                                            <p class="card-title text-white m-0" style="font-size: 14px;">
+                                                Recorte
+                                            </p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Plataformas
+                                            </p>
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <img src="https://assets.whop.com/core/2afe54ae8a904906b22dfce0/_next/static/media/tiktok-logo.b77808fb.svg"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                $ / Vistas
+                                            </p>
+                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
+                                                1.00 US$ / 1 mil
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 mb-2">
+                            <div class="card">
+                                <div class="card-body" style="padding: 15px;">
+                                    <div class="row " style="margin: 0px;">
+                                        <div class="col-auto m-0 p-0">
+                                            <span class="avatar" style="background-image: url(https://img-v2-prod.whop.com/2W74PpMmKbLVVK2y94JP_k_X6ofAypkP-uzdqd7uAxs/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI0LTEwLTE2L3VzZXJfMzc4NzE0Nl9lNTQ3NDg0Ny0wNGI0LTQ0ZjYtOWRjNi0xNmE5MTUzN2RiNmUuanBlZw)">
+                                            </span>
+                                        </div>
+                                        <div class="col">
+                                            <p class="card-title mb-0" style="padding-top: 7px;">
+                                                Whop University
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="card-title mt-2 mb-2">
+                                        Whop YouTube Video
+                                    </p>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;">
+                                                672,88 US$ de 25.000 US$ pagado
+                                            </p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;text-align: right;">
+                                                3%
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12 m-0">
+                                            <div class="progress mb-2 bg-dark" style="border: 1px solid #2a2a2a;height: 12px;">
+                                                <div aria-label="3% Complete" aria-valuemax="100" aria-valuemin="0" aria-valuenow="3" class="progress-bar bg-orange" role="progressbar" style="width: 3%">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Tipo
+                                            </p>
+                                            <p class="card-title text-white m-0" style="font-size: 14px;">
+                                                UGC
+                                            </p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Plataformas
+                                            </p>
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <img src="https://assets.whop.com/core/2afe54ae8a904906b22dfce0/_next/static/media/tiktok-logo.b77808fb.svg"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                $ / Vistas
+                                            </p>
+                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
+                                                1.00 US$ / 1 mil
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 mb-2">
+                            <div class="card">
+                                <div class="card-body" style="padding: 15px;">
+                                    <div class="row " style="margin: 0px;">
+                                        <div class="col-auto m-0 p-0">
+                                            <span class="avatar" style="background-image: url(https://img-v2-prod.whop.com/kG597jx40jwdJaNX70kg4N0_2oG6cDSXrea-mYhmzy4/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI1LTAyLTI2L3VzZXJfNjMwOTk4NV8wYjAwMTMzNS02MjYyLTRhZTQtOGYzOC0wMzgxNWUyY2VmNjIucG5n)">
+                                            </span>
+                                        </div>
+                                        <div class="col">
+                                            <p class="card-title mb-0" style="padding-top: 7px;">
+                                                Sean Perry Clips
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="card-title mt-2 mb-2">
+                                        Sean Perry
+                                    </p>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;">
+                                                445,39 US$ de 2500 US$ pagado
+                                            </p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;text-align: right;">
+                                                18%
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12 m-0">
+                                            <div class="progress mb-2 bg-dark" style="border: 1px solid #2a2a2a;height: 12px;">
+                                                <div aria-label="18% Complete" aria-valuemax="100" aria-valuemin="0" aria-valuenow="18" class="progress-bar bg-orange" role="progressbar" style="width: 18%">
                                                 </div>
                                             </div>
                                         </div>
@@ -150,22 +490,214 @@
                                                 $ / Vistas
                                             </p>
                                             <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
-                                                4.00 US$ / 1 mil
+                                                50.00 US$ / 1 mil
                                             </p>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-4">
+                        <div class="col-4 mb-2">
                             <div class="card">
-                                <div class="card-body">
+                                <div class="card-body" style="padding: 15px;">
+                                    <div class="row " style="margin: 0px;">
+                                        <div class="col-auto m-0 p-0">
+                                            <span class="avatar" style="background-image: url(https://img-v2-prod.whop.com/1mBXbNthOdI2DiLNZy6QbYpf4WdIpsjyzapcj-qxXRw/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI0LTEyLTMxL3VzZXJfMTU4NzMwOF84NDU3MmY1NC0yMDMwLTQ1ZGItYTI1NS1kYTcyZTU1ZWJkNGYucG5n)">
+                                            </span>
+                                        </div>
+                                        <div class="col">
+                                            <p class="card-title mb-0" style="padding-top: 7px;">
+                                                Rios to Riches
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="card-title mt-2 mb-2">
+                                        Clip Rios & Earn $1 Per 1K Views
+                                    </p>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;">
+                                                393,39 US$ de 1000 US$ pagado
+                                            </p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;text-align: right;">
+                                                39%
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12 m-0">
+                                            <div class="progress mb-2 bg-dark" style="border: 1px solid #2a2a2a;height: 12px;">
+                                                <div aria-label="38% Complete" aria-valuemax="100" aria-valuemin="0" aria-valuenow="38" class="progress-bar bg-orange" role="progressbar" style="width: 38%">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Tipo
+                                            </p>
+                                            <p class="card-title text-white m-0" style="font-size: 14px;">
+                                                UGC
+                                            </p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Plataformas
+                                            </p>
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <img src="https://assets.whop.com/core/2afe54ae8a904906b22dfce0/_next/static/media/tiktok-logo.b77808fb.svg"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                $ / Vistas
+                                            </p>
+                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
+                                                3.00 US$ / 1 mil
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-4">
+                        <div class="col-4 mb-2">
                             <div class="card">
-                                <div class="card-body">
+                                <div class="card-body" style="padding: 15px;">
+                                    <div class="row " style="margin: 0px;">
+                                        <div class="col-auto m-0 p-0">
+                                            <span class="avatar" style="background-image: url(https://img-v2-prod.whop.com/_57AbOadxM5bdZJReazIUNHlzzntrlwsdgAdFs-x0Ms/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI0LTEyLTMwL3VzZXJfNjgxMDYxOF81NDY5OTAzNS03ZTQyLTQzNWUtOWJhZC00ZTBhODIwMjdkZTIud2VicA)">
+                                            </span>
+                                        </div>
+                                        <div class="col">
+                                            <p class="card-title mb-0" style="padding-top: 7px;">
+                                                AI Academy Clips
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="card-title mt-2 mb-2">
+                                        AI Academy Clipping
+                                    </p>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;">
+                                                280,71 US$ de 2180 US$ pagado
+                                            </p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;text-align: right;">
+                                                9%
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12 m-0">
+                                            <div class="progress mb-2 bg-dark" style="border: 1px solid #2a2a2a;height: 12px;">
+                                                <div aria-label="9% Complete" aria-valuemax="100" aria-valuemin="0" aria-valuenow="9" class="progress-bar bg-orange" role="progressbar" style="width: 9%">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Tipo
+                                            </p>
+                                            <p class="card-title text-white m-0" style="font-size: 14px;">
+                                                Sin rostro
+                                            </p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Plataformas
+                                            </p>
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <img src="https://assets.whop.com/core/2afe54ae8a904906b22dfce0/_next/static/media/tiktok-logo.b77808fb.svg"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                $ / Vistas
+                                            </p>
+                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
+                                                1.75 US$ / 1 mil
+                                            </p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-4 mb-2">
+                            <div class="card">
+                                <div class="card-body" style="padding: 15px;">
+                                    <div class="row " style="margin: 0px;">
+                                        <div class="col-auto m-0 p-0">
+                                            <span class="avatar" style="background-image: url(https://img-v2-prod.whop.com/LrJO0R8Ly5XoweQyp-sgHA7-85jzusXYEw8lbV0TEKs/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI1LTAxLTE0L3VzZXJfNjgzOTk4OV9iNzAxYjY2Ny01Mzk5LTQxY2ItYjg3My0wZTU4YTg0NGNmNTYucG5n)">
+                                            </span>
+                                        </div>
+                                        <div class="col">
+                                            <p class="card-title mb-0" style="padding-top: 7px;">
+                                                Saamir Clips
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="card-title mt-2 mb-2">
+                                        Saamir Clips Payout
+                                    </p>
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;">
+                                                745,96 US$ de 4250 US$ pagado
+                                            </p>
+                                        </div>
+                                        <div class="col-6">
+                                            <p class="card-title mb-1" style="font-size: 14px;text-align: right;">
+                                                18%
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-12 m-0">
+                                            <div class="progress mb-2 bg-dark" style="border: 1px solid #2a2a2a;height: 12px;">
+                                                <div aria-label="18% Complete" aria-valuemax="100" aria-valuemin="0" aria-valuenow="18" class="progress-bar bg-orange" role="progressbar" style="width: 18%">
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="row">
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Tipo
+                                            </p>
+                                            <p class="card-title text-white m-0" style="font-size: 14px;">
+                                                UGC
+                                            </p>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                Plataformas
+                                            </p>
+                                            <div class="row">
+                                                <div class="col-12">
+                                                    <img src="https://assets.whop.com/core/2afe54ae8a904906b22dfce0/_next/static/media/tiktok-logo.b77808fb.svg"/>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-4">
+                                            <p class="card-title text-secondary m-0" style="font-size: 13px;font-weight: 700">
+                                                $ / Vistas
+                                            </p>
+                                            <p class="card-title text-white m-0 badge badge-sm bg-indigo" style="font-size: 13px;font-weight: 700">
+                                                3.00 US$ / 1 mil
+                                            </p>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </div>
