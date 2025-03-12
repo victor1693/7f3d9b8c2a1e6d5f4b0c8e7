@@ -113,7 +113,9 @@
                                         </div>
                                     </div>
                                     <p class="card-title mt-2 mb-2">
-                                        Whop UGC (Faceless)
+                                        <a class="text-white" href="<?= Request::root();?>/campaign" style="cursor: pointer">
+                                            Whop UGC (Faceless)
+                                        </a>
                                     </p>
                                     <div class="row">
                                         <div class="col-11">
