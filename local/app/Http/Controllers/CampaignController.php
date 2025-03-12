@@ -16,6 +16,14 @@ class CampaignController extends Controller
         $this->accounts = new AccountControllerClass();
     }
 
+  public function campaign()
+  { 
+      $vista = View::make('campaign');
+      return $vista;  
+  }
+
+
+
   public function index()
   {
       $response = $this->campaign->index();
