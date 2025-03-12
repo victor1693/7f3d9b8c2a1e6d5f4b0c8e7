@@ -9,9 +9,11 @@ use App\Http\Controllers\UserController;
 use App\Http\Controllers\AccountController;
 use App\Http\Controllers\SignOutController; 
 use App\Http\Controllers\HomeController; 
-use App\Http\Controllers\ProfileController; 
+use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\LandingController; 
 
 Route::get('home', [HomeController::class, 'create']);
+Route::get('landing', [LandingController::class, 'create']);
 Route::get('profile', [ProfileController::class, 'create']);
 Route::get('profile-cuentas', [ProfileController::class, 'cuentas']);
 Route::get('profile-seguridad', [ProfileController::class, 'seguridad']);
