@@ -1,4 +1,4 @@
-<div class="p-2" style="border-right:1px solid #2a2a2a;position: absolute;width: 260px;left: 0px;top: 0px;height: 100%;overflow-y: hidden;">
+<div class="p-2" style="border-right:1px solid #2a2a2a;position: absolute;width: 375px;left: 0px;top: 0px;height: 100%;overflow-y: hidden;">
     <div class="card-body p-4 text-center" style="border-bottom: 1px solid #1d1d1d;background-image: url('https://img-v2-prod.whop.com/rEuqtdgmTyTyI2bULxNzKfor_PpwqFmSgZj4FyUWvx0/rs:fit:1280:720/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI1LTAxLTI2L3VzZXJfMjE3MzE2OF83NjA0ZmU3OC02MmYwLTQ1ZTctYjFjZS1jNmZlOGVhYzQ3MGQuanBlZw');height: 150px;background-size: cover;border-radius: 15px;position: relative;">
         <div style="position: absolute;width: 100%;height: 100%;background: rgba(0,0,0,0.5);z-index: 0;left: 0;top: 0;border-radius: 15px;">
         </div>

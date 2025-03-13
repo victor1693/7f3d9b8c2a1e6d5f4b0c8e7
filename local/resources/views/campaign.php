@@ -30,7 +30,7 @@
         <?php  include 'includes/aside-condensed.php'; ?>
         <div class="page">
             <div class="card" style="border-radius: 0px;">
-                <div class="card-body py-0" id="contenedor-principal" style=" padding: 20px;padding-left: 260px;position: relative;height: 100%">
+                <div class="card-body py-0" id="contenedor-principal" style=" padding: 20px;padding-left: 375px;position: relative;height: 100%">
                     <?php  include 'includes/aside-profile-campaign.php'; ?>
                     <div style="padding: 20px;">
                         <div class="text-center">

@@ -22,6 +22,7 @@ Route::get('profile-formas-de-pago', [ProfileController::class, 'metodosDePago']
 Route::get('profile-saldo', [ProfileController::class, 'saldo']);
 Route::get('campaign', [CampaignController::class, 'campaign']);
 
+Route::get('campaign-start-here', [CampaignController::class, 'startHere']);
 /*
 # RUTAS PUBLICAS
 #Route::middleware(['VerifySession'])->
