@@ -10,11 +10,17 @@ use App\Http\Controllers\AccountController;
 use App\Http\Controllers\SignOutController; 
 use App\Http\Controllers\HomeController; 
 use App\Http\Controllers\ProfileController;
-use App\Http\Controllers\LandingController; 
+use App\Http\Controllers\LandingController;
+use App\Http\Controllers\LoginController;
+use App\Http\Controllers\RegisterController;
+use App\Http\Controllers\TokenController;    
 
 Route::get('home', [HomeController::class, 'create']); 
 Route::get('profile', [ProfileController::class, 'general']); 
-Route::get('landing', [LandingController::class, 'create']); 
+Route::get('landing', [LandingController::class, 'create']);
+Route::get('login', [LoginController::class, 'create']);
+Route::get('register', [RegisterController::class, 'create']);
+Route::get('token', [TokenController::class, 'create']);
 
 Route::get('profile-cuentas', [ProfileController::class, 'cuentas']);
 Route::get('profile-seguridad', [ProfileController::class, 'seguridad']);
