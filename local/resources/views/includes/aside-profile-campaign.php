@@ -9,16 +9,16 @@
         </p>
     </div>
     <div class="list-group list-group-flush">
-        <a class="list-group-item list-group-item-action mt-2" href="<?= Request::root()?>/profile" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;background-color: #1c1c1c">
+        <a class="list-group-item list-group-item-action mt-2" href="<?= Request::root()?>/campaign" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;background-color: #1c1c1c">
             <img src="https://img-v2-prod.whop.com/6h3sfg_FqzkV8VtmHQ41wHmNYgK6xQepCrUU9lSl0wI/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI1LTAyLTExL3VzZXJfMjE3MzE2OF85NTc2MmVhOS1kZjdhLTQ2OWItODE5YS1lZGI5NTcwZGMwYzguanBlZw" style="height: 30px;width: 30px;border-radius: 5px;margin-left: -25px;margin-right: 10px;"/>
             Resumen
         </a>
         <div class="mt-3" style="border-top: 1px solid #2a2a2a;">
-            <a class="list-group-item list-group-item-action mt-2" href="<?= Request::root()?>/profile" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
+            <a class="list-group-item list-group-item-action mt-2" href="<?= Request::root()?>/campaign-start-here" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
                 <img src="https://img-v2-prod.whop.com/X6k_ozpYUY84nlanH6CyRTIRRP3VFwbJ0w593iHJm1o/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI1LTAzLTA2L3VzZXJfMjE3MzE2OF8wZjZiNjBkOS0zYTNiLTRjNjMtOTAxMS1lN2ZmMTE5ZGY5Y2IucG5n" style="height: 30px;width: 30px;border-radius: 5px;margin-left: -25px;margin-right: 10px;"/>
                 START HERE
             </a>
-            <a class="list-group-item list-group-item-action mt-2" href="<?= Request::root()?>/profile" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
+            <a class="list-group-item list-group-item-action mt-2" href="<?= Request::root()?>/campaign-rewards" style="border-radius: 15px;padding: 10px 20px;font-size: 16px;font-weight: 600;padding-left: 42px;border: 0px;">
                 <img src="https://img-v2-prod.whop.com/uxJX37zd8NkHDzEDKdt2kTVWBPv-63XskD3XC1c7Hrk/rs:fill:80:80/el:1/dpr:2/aHR0cHM6Ly9hc3NldHMud2hvcC5jb20vdXBsb2Fkcy8yMDI1LTAzLTA2L3VzZXJfMjE3MzE2OF9lYzVmNDAwYy00YmEwLTQxOWQtOGQ4Ny04MzZmNDNjYzY1NmEucG5n" style="height: 30px;width: 30px;border-radius: 5px;margin-left: -25px;margin-right: 10px;"/>
                 REWARDS
             </a>

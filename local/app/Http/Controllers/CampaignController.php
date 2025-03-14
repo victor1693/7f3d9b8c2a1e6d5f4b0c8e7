@@ -28,6 +28,12 @@ class CampaignController extends Controller
       return $vista;  
   } 
 
+  public function rewards()
+  { 
+      $vista = View::make('campaign-rewards');
+      return $vista;  
+  } 
+
   public function index()
   {
       $response = $this->campaign->index();

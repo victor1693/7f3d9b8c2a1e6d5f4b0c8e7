@@ -23,6 +23,7 @@ Route::get('profile-saldo', [ProfileController::class, 'saldo']);
 Route::get('campaign', [CampaignController::class, 'campaign']);
 
 Route::get('campaign-start-here', [CampaignController::class, 'startHere']);
+Route::get('campaign-rewards', [CampaignController::class, 'rewards']);
 /*
 # RUTAS PUBLICAS
 #Route::middleware(['VerifySession'])->
